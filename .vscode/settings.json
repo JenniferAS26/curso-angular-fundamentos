@@ -1,0 +1,25 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#bdd4d7",
+    "activityBar.background": "#bdd4d7",
+    "activityBar.foreground": "#0b3b59",
+    "activityBar.inactiveForeground": "#0b3b5999",
+    "activityBarBadge.background": "#ab74a4",
+    "activityBarBadge.foreground": "#0b3b59",
+    "commandCenter.border": "#0b3b5999",
+    "panel.border": "#bdd4d7",
+    "sash.hoverBorder": "#bdd4d7",
+    "sideBar.border": "#bdd4d7",
+    "statusBar.background": "#9dc0c4",
+    "statusBar.foreground": "#0b3b59",
+    "statusBarItem.hoverBackground": "#7dacb1",
+    "statusBarItem.remoteBackground": "#9dc0c4",
+    "statusBarItem.remoteForeground": "#0b3b59",
+    "titleBar.activeBackground": "#9dc0c4",
+    "titleBar.activeForeground": "#0b3b59",
+    "titleBar.inactiveBackground": "#9dc0c499",
+    "titleBar.inactiveForeground": "#0b3b5999"
+  },
+  "vscode-pets.theme": "forest",
+  "vscode-pets.position": "explorer"
+}
